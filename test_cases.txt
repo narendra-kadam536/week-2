@@ -1,0 +1,41 @@
+# Test Case 1:
+Enter marks for 5 subjects (0 - 100):
+Subject 1: 80
+Subject 2: 70
+Subject 3: 40
+Subject 4: 60
+Subject 5: 86
+
+----- Result -----
+Total Marks: 336
+Percentage: 67.2 %
+Grade: C
+
+# Test Case 2:
+Enter marks for 5 subjects (0 - 100):
+Subject 1: 80
+Subject 2: 79
+Subject 3: 80
+Subject 4: 96
+Subject 5: 90
+
+----- Result -----
+Total Marks: 425
+Percentage: 85.0 %
+Grade: A
+
+# Test Case 3:
+Enter marks for 5 subjects (0 - 100):
+Subject 1: 95      
+Subject 2: 97
+Subject 3: 96
+Subject 4: 86
+Subject 5: 57
+
+----- Result -----
+Total Marks: 431
+Percentage: 86.2 %
+Grade: A
+
+
+
